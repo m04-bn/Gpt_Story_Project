@@ -4,10 +4,10 @@ This repository contains a beginner-friendly implementation of a GPT-style langu
 
 1. **Pretraining** on raw text from TinyStories using next-token prediction.
 2. **Supervised fine-tuning (SFT)** on instruction-response examples to improve instruction following.
-#link foi collab:
-[collab](https://colab.research.google.com/drive/1tG05xwRVpNH6dS-p9cgajFxEKxqo1hA3?usp=sharing)
 
-https://colab.research.google.com/drive/1tG05xwRVpNH6dS-p9cgajFxEKxqo1hA3?usp=sharing
+#link for colab:
+[colab](https://colab.research.google.com/drive/1tG05xwRVpNH6dS-p9cgajFxEKxqo1hA3?usp=sharing)
+
 ## Features
 
 - Decoder-only transformer architecture
